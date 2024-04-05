@@ -13,7 +13,7 @@ Periodic signatures in time-domain observations of quasars have been used to sea
    
 Keywords and relevant subfields: quasars, supermassive black holes, accretion physics, graviational wave sources, hierarchical structure formation
 
-This work is expected to become a journal article led M. Davis as a follow-up to [Davis et al. 2024](https://iopscience.iop.org/article/10.3847/1538-4357/ad276e).
+This work is expected to become a journal article led by M. Davis as a follow-up to [Davis et al. 2024](https://iopscience.iop.org/article/10.3847/1538-4357/ad276e).
 
 ## Data and data-related resources:
 Relevant data paper: [Davis et al. 2024 ApJ 965 34](https://iopscience.iop.org/article/10.3847/1538-4357/ad276e)
