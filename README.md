@@ -1,4 +1,4 @@
-# Forcasting Rubin Binary Supermassive Black Hole Detection Rates via Machine Learning
+# Forecasting Rubin Binary Supermassive Black Hole Detection Rates via Machine Learning
 
 This project is a part of the [Time-Domain Needles in Rubin's Haystacks](https://rubin-anomalies-workshop.github.io/pages/about.html) Workshop held at the Harvard Center for Astrophysics from April 17-19th, 2024.
 
