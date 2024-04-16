@@ -27,6 +27,7 @@ Relevant data paper: [Davis et al. 2024 ApJ 965 34](https://iopscience.iop.org/a
  
 - Each dataset within its corresponding HDF5 file has a 'time' column and 1001 light curve columns ['0','1','2','3'...]. 
 - Examples on how the datasets are structured are in the Tutorials folder.
+- The WFD3 and DDF data sets contain dummy values/flags to hold the place of a dropped observations (due to cadence, duration, seasonal gaps, weather). Please filter out the -999.0 floats. Insider info: they were all created with the same random seed, so they will have the same "bad weather" days.
 
 ## Tutorials
-Coming soon. These tutorials are intended to get you introduced to the problem and started with the data.
+Please see the [Tutorials](./Tutorials/) folder within this repository. The first tutorial, "Interacting_with_the_data.ipynb', is intended to get you introduced to and started with the data.
