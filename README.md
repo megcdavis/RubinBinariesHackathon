@@ -18,7 +18,15 @@ This work is expected to become a journal article led by M. Davis as a follow-up
 ## Data and data-related resources:
 Relevant data paper: [Davis et al. 2024 ApJ 965 34](https://iopscience.iop.org/article/10.3847/1538-4357/ad276e)
 
-Data in the form of HDF5 files coming soon to a Harvard Dataverse near you!
+[Sample i-band Rubin/LSST Single and Binary Quasar Light Curves](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/G0IOPJ)
+- Four HDF5 files: Hackathon_2024_lcs_*.HDF5
+   - small (full light curves, 10 datasets)
+   - large (full light curves, 30 datasets)
+   - WFD3 (3-day cadence and 5 month seasonal duration applied)
+   - DDF (1-day cadence and 5 month seasonal duration applied)
+ 
+- Each dataset within its corresponding HDF5 file has a 'time' column and 1001 light curve columns ['0','1','2','3'...]. 
+- Examples on how the datasets are structured are in the Tutorials folder.
 
 ## Tutorials
 Coming soon. These tutorials are intended to get you introduced to the problem and started with the data.
