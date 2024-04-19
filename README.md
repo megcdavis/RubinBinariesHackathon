@@ -2,7 +2,7 @@
 
 This project is a part of the [Time-Domain Needles in Rubin's Haystacks](https://rubin-anomalies-workshop.github.io/pages/about.html) Workshop held at the Harvard Center for Astrophysics from April 17-19th, 2024.
 
-#### Participants: Meg Davis (UConn, megan.c.davis@uconn.edu), et al!
+#### Participants: Meg Davis (UConn, megan.c.davis@uconn.edu), Shar Daniels, Szymon Nakoneczny
 
 ## Summary & Goals:
 Periodic signatures in time-domain observations of quasars have been used to search for binary supermassive black holes (SMBHs). These searches, across existing time-domain surveys, have produced several hundred candidates. The general stochastic variability of quasars, however, can masquerade as a false-positive periodic signal, especially when monitoring cadence and duration are limited. As Rubin will observe millions of quasars, it will also open a new frontier for electromagnetic detection of binary SMBHs. In this Hack, we will explore the application of basic machine learning techniques to the binary detection problem by using thousands of synthetic Rubin observations of both binary and single quasars. The goals are as follows:
